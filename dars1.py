@@ -4,7 +4,7 @@
 son = 5
 print(type(son))
 
-son1 = 4.7
+son1 = 455
 # print(type(son1))
 # pydroid
 
