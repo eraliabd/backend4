@@ -49,3 +49,4 @@ son1 = 4.6
 # 1-savol
 # 2-savol
 
+print("ok")
