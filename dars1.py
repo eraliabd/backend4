@@ -50,7 +50,3 @@ son1 = 4.6
 # 2-savol
 
 print("ok")
-
-a = 10
-if a == 10:
-    print("ok")
